@@ -2,6 +2,9 @@
 A sorting algorithm visualizer made with Java using Swing.
 > [!NOTE]
 > This application uses a nanosecond-based simulation to process the visualizer. Expect any lag spikes.
+
+> [!WARNING]
+> This application can be quite loud. Make sure to decrease your volume before playing.
 ## Guide
 Press **Q** to shuffle the list.\
 Press **W** to sort the list using the selected sorting algorithm.\
