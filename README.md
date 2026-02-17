@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualizer
 A sorting algorithm visualizer made with Java using Swing.
 > [!NOTE]
-> This application uses a millisecond-based simulation to process the visualizer.
+> This application uses a nanosecond-based simulation to process the visualizer. Expect any lag spikes.
 ## Guide
 Press **Q** to shuffle the list.\
 Press **W** to sort the list using the selected sorting algorithm.\
