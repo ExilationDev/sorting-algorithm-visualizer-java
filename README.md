@@ -1,2 +1,2 @@
-# sorting-algorithm-visualizer-java
-A sorting algorithm visualizer made with Java using purely Swing.
+# Sorting Algorithm Visualizer
+A sorting algorithm visualizer made with Java purely using Swing.
