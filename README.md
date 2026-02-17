@@ -8,7 +8,7 @@ A sorting algorithm visualizer made with Java using Swing.
 ## Guide
 Press **Q** to shuffle the list.\
 Press **W** to sort the list using the selected sorting algorithm.\
-To change the speed of the simulation, change the **sortDelay (ms) in BarList.java**.\
+To change the speed of the simulation, change the **sortDelay in BarList.java**. Don't forget, it's in nanoseconds.\
 To change the selected sorting algorithm, change the sorting algorithm in the **SortList(ArrayList<BarObject> arr, int delay) method in SortingAlgorithm.java**.
 ## Available Sorting Algorithms
 | Sorting Algorithm | Method | Average Time Complexity | Space Complexity |
